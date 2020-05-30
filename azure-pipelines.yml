@@ -5,7 +5,6 @@
 # comment added by John
 # mistake
 # fixed mistake in the test branch
-# added this text in change-color branch
 
 trigger:
 - master
